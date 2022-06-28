@@ -17,7 +17,7 @@ Click "Trust Project"
 
 <img width="804" alt="Screen Shot 2022-06-28 at 18 22 39" src="https://user-images.githubusercontent.com/94465107/176167030-7017fb0c-9439-4d6d-8e45-cf3fb9f68f40.png">
 
-The project is then loaded to IntelliJ IDEA, but at first with many error. Since we have not import the CasperKotlinSDK.jar file to the project.
+The project is then loaded to IntelliJ IDEA, but at first with many error. Since we have not imported the CasperKotlinSDK.jar file to the project.
 
 <img width="1440" alt="Screen Shot 2022-06-28 at 18 24 19" src="https://user-images.githubusercontent.com/94465107/176167219-fe5ca4f2-5801-44c6-b729-826b6323612d.png">
 
