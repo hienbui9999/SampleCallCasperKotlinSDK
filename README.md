@@ -1,5 +1,6 @@
 # SampleCallCasperKotlinSDK
 A sample project that demonstrate the call to Casper Kotlin SDK
+This sample call 2 RPC methods: chain_get_state_root_hash and info_get_deploy, then print the result to the log panel.
 
 ## How to run this sample
 
@@ -72,9 +73,10 @@ Right click on any blank region in the file "Main.kt" and hit "Run MainKt"
 
 <img width="1440" alt="Screen Shot 2022-06-28 at 18 40 17" src="https://user-images.githubusercontent.com/94465107/176169917-4bd7f3e7-8ded-428a-8319-d0f5d4967560.png">
 
-You will then see the state root hash being retrieved and printed in the log
+You will then see the state root hash being retrieved and printed in the log. There is also a call to "info_get_deploy" RPC being implemented and you can see some information of the deploy, original at this address: https://testnet.cspr.live/deploy/9ff98d8027795a002e41a709d5b5846e49c2e9f9c8bfbe74e4c857adc26d5571
 
-<img width="1440" alt="Screen Shot 2022-06-28 at 18 41 05" src="https://user-images.githubusercontent.com/94465107/176170023-105bb725-f039-4360-87b8-9e0d9c78b6c8.png">
+<img width="1440" alt="Screen Shot 2022-06-28 at 19 00 54" src="https://user-images.githubusercontent.com/94465107/176173584-e5ae5318-d9be-41e5-8fbf-bfddb5726a19.png">
+
 
 
 
