@@ -1,7 +1,7 @@
 # SampleCallCasperKotlinSDK
 A sample project that demonstrate the call to Casper Kotlin SDK
 
-##How to run this sample
+## How to run this sample
 
 Open IntelliJ IDEA and choose "Get from VCS"
 
